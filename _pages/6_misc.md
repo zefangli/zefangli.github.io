@@ -5,24 +5,6 @@ layout: single
 author_profile: true
 ---
 
-"Weakness and ignorance are not barriers to survival, but arrogance is" -- Cixin Liu
-
-### Awards
-
-- The Joseph Meyerhoff Fellowship, JHU, 2023
-- MechE MS Summer Research Fellowship, CMU, 2022
-- Outstanding Graduate of Shanghai (<5%), SJTU, 2021
-- 2020 Outstanding Teaching Assistant Award, SJTU, 2021
-- SJTU B-Class Undergraduate Scholarship for Academic Excellence (10%), 2019 & 2020
-- SJTU Undergraduate Academic Progress Scholarship (5%), 2019
-- UM-SJTU JI Volunteer Spirit Scholarship, 2018
-- First Prize in 30th Chinese Chemistry Olympiad (Preliminary contest), 2016
-
-### Certificates
-
-- Basic Teaching Assistant Certificate, UM-SJTU JI, 2020
-- Certificated LabVIEW Associate Developer, National Instruments, 2019
-
 ### Seal Carving: a mini-gallery, 2020-2021
 
 [SC10] 生气远出 (Sheng qi yuan chu)
