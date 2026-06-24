@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Zefang Li 李泽方"
   avatar : "/assets/imgs/ZefangLi_headshot2022.JPG"
-  bio    : "PhD candidate @JHU — ML, optimization & numerical methods for physical systems"
+  bio    : "PhD candidate @JHU"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
