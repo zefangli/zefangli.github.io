@@ -1,13 +1,7 @@
 main:
   - title: "Home"
     url: /home/
-  - title: "Research"
+  - title: "Academics"
     url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "CV"
-    url: /cv/
-  - title: "Misc"
-    url: /misc/
-  - title: "Contact"
-    url: /#contact
+  - title: "Applied projects"
+    url: /projects/

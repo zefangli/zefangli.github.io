@@ -15,9 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: "Zefang Li"
 name: "Zefang Li 李泽方"
-email: "zli299@jh.edu"
+email: "zli299@jhu.edu"
 description: "personal website for Zefang Li"
-twitter_username: "zefang_li"
 github_username: "zefangli"
 minimal_mistakes_skin: default
 search: true
@@ -58,7 +57,7 @@ plugins:
 author:
   name   : "Zefang Li 李泽方"
   avatar : "/assets/imgs/ZefangLi_headshot2022.JPG"
-  bio    : "PhD student @JHU"
+  bio    : "PhD candidate @JHU — ML, optimization & numerical methods for physical systems"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
@@ -68,10 +67,7 @@ author:
       url: "https://orcid.org/0000-0003-4643-4579/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:zli299@jh.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/zefang_li/"
+      url: "mailto:zli299@jhu.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zefang-l-b4613817b/"
