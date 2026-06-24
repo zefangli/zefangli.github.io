@@ -50,6 +50,10 @@ author_profile: true
 - Teaching Assistant: Modeling, Analysis and Control of Dynamic Systems, Introduction to Dynamics and Vibrations, Branding and Brand Management, SJTU
 - Volunteer Teacher: English and math for grade 2–6 students, Haikou Central Elementary School, Eryuan, China
 
+#### Mentoring
+
+- Mentored 4 undergrad students and 2 master's students for research credits or internship.
+
 #### Areas of Expertise
 
 _Experimental_

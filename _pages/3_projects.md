@@ -9,7 +9,7 @@ Applied, computational, and quantitative work — the numerical, optimization, a
 
 #### Physics-Informed Neural Operators for Option Pricing
 
-Learned solution operators for European option pricing under the Black–Scholes PDE. Benchmarks a Fourier Neural Operator against deep, convolutional, and vanilla neural-operator baselines, with a physics-informed loss that bakes the governing PDE into training. Includes feasibility studies, hyperparameter and loss-weight ablations, and evaluation on real market data from WRDS. Built in PyTorch. [code](https://github.com/zefangli/Physics-Informed-Neural-Operators-for-Option-Pricing)  _Work in progress;A second option-pricing model is currently under construction._
+Learned solution operators for European option pricing under the Black–Scholes PDE. Benchmarks a Fourier Neural Operator against deep, convolutional, and vanilla neural-operator baselines, with a physics-informed loss that bakes the governing PDE into training. Includes feasibility studies, hyperparameter and loss-weight ablations, and evaluation on real market data from WRDS. Built in PyTorch. [code](https://github.com/zefangli/Physics-Informed-Neural-Operators-for-Option-Pricing)  _Work in progress; a second option-pricing model is currently under construction._
 
 #### Multi-Material Print Path Planning
 
