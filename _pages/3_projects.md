@@ -9,14 +9,12 @@ Applied, computational, and quantitative work — the numerical, optimization, a
 
 #### Physics-Informed Neural Operators for Option Pricing
 
-Learned solution operators for European option pricing under the Black–Scholes PDE. Benchmarks a Fourier Neural Operator against deep, convolutional, and vanilla neural-operator baselines, with a physics-informed loss that bakes the governing PDE into training. Includes feasibility studies, hyperparameter and loss-weight ablations, and evaluation on real market data from WRDS. Built in PyTorch. [code](https://github.com/zefangli/Physics-Informed-Neural-Operators-for-Option-Pricing)
-
-A second option-pricing model is currently under construction.
+Learned solution operators for European option pricing under the Black–Scholes PDE. Benchmarks a Fourier Neural Operator against deep, convolutional, and vanilla neural-operator baselines, with a physics-informed loss that bakes the governing PDE into training. Includes feasibility studies, hyperparameter and loss-weight ablations, and evaluation on real market data from WRDS. Built in PyTorch. [code](https://github.com/zefangli/Physics-Informed-Neural-Operators-for-Option-Pricing)  _Work in progress;A second option-pricing model is currently under construction._
 
 #### Multi-Material Print Path Planning
 
-A Rural Postman Problem solver that plans continuous toolpaths covering every edge of a lattice while minimizing non-printing "jump" travel, achieving up to **18% printing-time reduction** for multi-material structures. Pipeline: odd-degree vertex matching for Eulerian traversal, component merging via edge swapping and PCA-guided sweeps (with a Frederickson MST alternative), Eulerian circuit generation, and open-path optimization. Handles per-material nozzle offsets and exports Aerotech A3200-style G-code for direct printing. Python, NetworkX, NumPy, SciPy.
-[code](https://github.com/JHU-Mueller-Lab/Print-Path-Planning-for-Multimaterial-Structures)
+A Rural Postman Problem solver that plans continuous toolpaths covering every edge of a lattice while minimizing non-printing "jump" travel, achieving up to **18% printing-time reduction** for multi-material structures. Handles per-material nozzle offsets and exports G-code for direct printing. Utilizing Python, NetworkX, NumPy, SciPy.
+[details](https://github.com/JHU-Mueller-Lab/Print-Path-Planning-for-Multimaterial-Structures)
 
 #### Differentiable Thermal Simulation & Learned Surrogates
 

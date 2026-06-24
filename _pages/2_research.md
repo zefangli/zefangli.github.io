@@ -5,13 +5,10 @@ layout: single
 author_profile: true
 ---
 
-#### Current Work
+#### Current Research Focuses
 
-My current work spans:
-
-- Digital fabrication
-- Metal extrusion additive manufacturing
-- Liquid metals
+- Digital fabrication: planning, optimization, design
+- Liquid metals and its 3D printing
 
 #### Selected Publications
 
@@ -33,6 +30,7 @@ My current work spans:
 
 #### Selected Talks & Presentations
 
+- “Effect of Processing Parameters on Microstructure and Hardness in Metal Extrusion Additive Manufacturing of Thin-Walled 4043 Aluminum”, 2026 21st International Manufacturing Science and Engineering Conference.
 - "Metal Extrusion Additive Manufacturing," MSEE Annual Technical Review, 2025 & 2026
 - "Ultrawide Property Range Thiol-Ene Photopolymers for 3D Printing," DOM/WSE Research Retreat and Poster Session (JHU), 2025
 - "A Polymeric 3D Printing Material System Exhibiting an Extensive Range of Mechanical Properties," MRS Fall Meeting & Exhibit, 2024
@@ -47,13 +45,10 @@ My current work spans:
 
 #### Teaching
 
-- Machine Learning and Artificial Intelligence for Engineers, Course Assistant, CMU, Fall 2022
-- Numerical Methods, Grader, CMU, Spring 2023
-- Gelfand Outreach Fall Saturday Series, "Engineering Materials for Soft Robotics," Volunteer Teacher, CMU, Fall 2022
-- Modeling, Analysis and Control of Dynamic Systems, Teaching Assistant, SJTU, Summer 2020
-- Introduction to Dynamics and Vibrations, Teaching Assistant, SJTU, Spring 2020
-- Branding and Brand Management, Teaching Assistant, SJTU, Spring 2019
-- English and math for grade 2–6 students, Volunteer Teacher, Haikou Central Elementary School, Eryuan, China, Winter 2017
+- Teaching Assistant: Machine Learning and Artificial Intelligence for Engineers, Numerical Methods, CMU
+- Volunteer Teacher: Gelfand Outreach Fall Saturday Series, "Engineering Materials for Soft Robotics," CMU
+- Teaching Assistant: Modeling, Analysis and Control of Dynamic Systems, Introduction to Dynamics and Vibrations, Branding and Brand Management, SJTU
+- Volunteer Teacher: English and math for grade 2–6 students, Haikou Central Elementary School, Eryuan, China
 
 #### Areas of Expertise
 
