@@ -2,6 +2,7 @@
 permalink: /
 layout: single
 author_profile: true
+classes: wide
 ---
 
 #### Bio

@@ -3,6 +3,7 @@ title: "Academics"
 permalink: /research/
 layout: single
 author_profile: true
+classes: wide
 ---
 
 #### Current Research Focuses

@@ -3,6 +3,7 @@ title: "Applied projects"
 permalink: /projects/
 layout: single
 author_profile: true
+classes: wide
 ---
 
 Applied, computational, and quantitative work — the numerical, optimization, and machine-learning toolkit behind my research, used to build and ship concrete tools. Several projects are still in progress.
