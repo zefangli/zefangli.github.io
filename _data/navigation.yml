@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Academics"
-    url: /research/
   - title: "Applied projects"
     url: /projects/
+  - title: "Gallery"
+    url: /gallery/
