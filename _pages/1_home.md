@@ -91,4 +91,4 @@ Feel free to contact me at zli299(at)jhu(dot)edu
 
 #### Curriculum Vitae
 
-<embed src="https://zefangli.github.io/assets/files/CV-ZefangLi-202308.pdf" type="application/pdf" width="600" height="800"/>
+<embed src="https://zefangli.github.io/assets/files/CV-Zefang-Li-2609.pdf" type="application/pdf" width="600" height="800"/>
