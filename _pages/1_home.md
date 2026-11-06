@@ -36,6 +36,7 @@ Before Hopkins, I earned a master's degree in Mechanical Engineering from Carneg
 
 #### Selected Talks & Presentations
 
+- “A Thermally Informed Framework for Stable Metal Extrusion Additive Manufacturing of Thin-Walled Aluminum Alloys”, 2026 37th Annual International Solid Freeform Fabrication Symposium.
 - “Effect of Processing Parameters on Microstructure and Hardness in Metal Extrusion Additive Manufacturing of Thin-Walled 4043 Aluminum”, 2026 21st International Manufacturing Science and Engineering Conference.
 - "Metal Extrusion Additive Manufacturing," MSEE Annual Technical Review, 2025 & 2026
 - "Ultrawide Property Range Thiol-Ene Photopolymers for 3D Printing," DOM/WSE Research Retreat and Poster Session (JHU), 2025
